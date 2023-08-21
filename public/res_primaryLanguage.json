@@ -1,118 +1,112 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Joshua Shea. Hard working and driven professional that optimizes efficiency and delivers exceptional outcomes. Known for collaborative leadership, strong communication skills, and the ability to navigate complex challenges. Worked as a Security Forces Member in the United States Air Force. Got out at the end of my contract after realizing that it was not a fulfilling life-long career. Started working as a painter shortly after with the potential prospect of taking over the family business. A few years later it became evident that this, too, was not a future I could envision. After speaking with friends and family in the tech industry, a potential new path soon opened up. I began studying different aspects of software development from HTML, CSS, Javascript, Python, PHP, SQL, Kivy, JSON, and web APIs. The fact that there is so much more to learn and that this barely scratches the surface gives rise to endless possibilities. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 I'm Joshua Shea. Hard working and driven professional that optimizes efficiency and delivers exceptional outcomes. Known for collaborative leadership, strong communication skills, and the ability to navigate complex challenges. Worked as a Security Forces Member in the United States Air Force. Got out at the end of my contract after realizing that it was not a fulfilling life-long career. Started working as a painter shortly after with the potential prospect of taking over the family business. A few years later it became evident that this, too, was not a future I could envision. After speaking with friends and family in the tech industry, a potential new path soon opened up. I began studying different aspects of software development from HTML, CSS, Javascript, Python, PHP, SQL, Kivy, JSON, and web APIs. The fact that there is so much more to learn and that this barely scratches the surface gives rise to endless possibilities. Thank you 💜",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Salmon Cookies",
+      "startDate": "2023",
+      "description": "Basic conceptual idea of a shop that sells salmon-flavored cookies. This site takes in mock data that displays data in both a table and a graph. This data is the amount sold and amount of people showing up to one of these shops in a city. Data can be updated through a form on the site.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://jshea44.github.io/cookie-stand/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML 5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS 3"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Salmon Cookies",
-        "startDate": "2023",
-        "description": "Basic conceptual idea of a shop that sells salmon-flavored cookies. This site takes in mock data that displays data in both a table and a graph. This data is the amount sold and amount of people showing up to one of these shops in a city. Data can be updated through a form on the site.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "https://jshea44.github.io/cookie-stand/",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Photography",
+      "startDate": "2018",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "Full Stack Developer (Student)",
+      "years": "06.2023 - present",
+      "mainTech": ["React 18"],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "HTML 5",
+        "CSS 3",
+        "Bootstrap",
+        "React"
+      ]
+    },
+    {
+      "company": "2-Shea's Painting",
+      "title": "Painter",
+      "years": "2019 - 2023",
+      "mainTech": [""],
+      "technologies": ["Interior", "Exterior", "Commercial"]
+    },
+    {
+      "company": "United States Air Force",
+      "title": "Security Forces Member",
+      "years": "2015 - 2019",
+      "mainTech": [""],
+      "technologies": [""]
+    }
+  ]
+}
