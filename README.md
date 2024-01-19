@@ -1,5 +1,5 @@
-# Modify this portfolio
+# My Project Portfolio
 
-Deployed Site: https://cheerful-panda-10e1ec.netlify.app/
+This is my porfolio of projects I have worked on since the beginning of my software development journey.
 
-Make it your own!
+Deployed Site:
