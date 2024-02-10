@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 class Footer extends Component {
   render() {
@@ -20,14 +20,14 @@ class Footer extends Component {
           <div className="row">
             <div className="col social-links">{networks}</div>
             <div className="col">
-              <div 
+              {/* <div
                 onClick={() =>
                   this.props.applyPickedLanguage(
                     window.$primaryLanguage,
                     window.$secondaryLanguageIconId
                   )
                 }
-                style={{ display: "inline" }}
+                style={{ display: 'inline' }}
               >
                 <span
                   className="iconify language-icon mr-5"
@@ -36,14 +36,14 @@ class Footer extends Component {
                   id={window.$primaryLanguageIconId}
                 ></span>
               </div>
-              <div 
+              <div
                 onClick={() =>
                   this.props.applyPickedLanguage(
                     window.$secondaryLanguage,
                     window.$primaryLanguageIconId
                   )
                 }
-                style={{ display: "inline" }}
+                style={{ display: 'inline' }}
               >
                 <span
                   className="iconify language-icon"
@@ -51,16 +51,16 @@ class Footer extends Component {
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
                 ></span>
-              </div>
+              </div> */}
             </div>
             <div className="col">
               <div className="copyright py-4 text-center">
                 <div className="container">
                   <small>
-                    Copyright &copy;{" "}
+                    Copyright &copy;{' '}
                     {this.props.sharedBasicInfo
                       ? this.props.sharedBasicInfo.name
-                      : "???"}
+                      : '???'}
                   </small>
                 </div>
               </div>
