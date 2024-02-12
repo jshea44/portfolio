@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Joshua Shea. Hard working and driven professional that optimizes efficiency and delivers exceptional outcomes. Known for collaborative leadership, strong communication skills, and the ability to navigate complex challenges. Worked as a Security Forces Member in the United States Air Force. Got out at the end of my contract after realizing that it was not a fulfilling life-long career. Started working as a painter shortly after with the potential prospect of taking over the family business. A few years later it became evident that this, too, was not a future I could envision. After speaking with friends and family in the tech industry, a potential new path soon opened up. I began studying different aspects of software development from HTML, CSS, Javascript, Python, PHP, SQL, Kivy, JSON, and web APIs. The fact that there is so much more to learn and that this barely scratches the surface gives rise to endless possibilities. Thank you 💜",
+    "description": "👋 I'm Joshua Shea. Hard working and driven professional that optimizes efficiency and delivers exceptional outcomes. Known for collaborative leadership, strong communication skills, and the ability to navigate complex challenges. Worked as a Security Forces Member in the United States Air Force. Got out at the end of my contract after realizing that it was not a fulfilling life-long career. Started working as a painter shortly after with the potential prospect of taking over the family business. A few years later it became evident that this, too, was not a future I could envision. After speaking with friends and family in the tech industry, a potential new path soon opened up. I began studying different aspects of software development from HTML, CSS, Javascript, Python, PHP, SQL, Kivy, JSON, and web APIs. The fact that there is so much more to learn and that this barely scratches the surface gives rise to endless possibilities. Thank you.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -96,7 +96,9 @@
         "HTML 5",
         "CSS 3",
         "Bootstrap",
-        "React"
+        "React",
+        "Node.js",
+        "AWS"
       ]
     },
     {
