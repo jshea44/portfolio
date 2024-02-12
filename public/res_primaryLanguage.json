@@ -11,38 +11,39 @@
   },
   "projects": [
     {
-      "title": "Salmon Cookies",
-      "startDate": "2023",
-      "description": "Basic conceptual idea of a shop that sells salmon-flavored cookies. This site takes in mock data that displays data in both a table and a graph. This data is the amount sold and amount of people showing up to one of these shops in a city. Data can be updated through a form on the site.",
+      "title": "Custom Fit",
+      "startDate": "2024",
+      "description": "Backend server that provides the ability to create flexible workout routines for athletes and trainers alike including measuring by time, distance, reps/sets, as well as adding drop sets/supersets.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/gym/pull-ups.jpeg",
+        "images/portfolio/gym/sled-pushing.jpeg"
       ],
-      "url": "https://jshea44.github.io/cookie-stand/",
+      "url": "https://github.com/jshea44/custom-fit-server?tab=readme-ov-file",
       "technologies": [
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
         },
         {
-          "class": "devicon-html5-plain",
-          "name": "HTML 5"
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
         },
         {
-          "class": "devicon-css3-plain",
-          "name": "CSS 3"
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        },
+        {
+          "class": "devicon-express-original",
+          "name": "Express.js"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
+      "title": "Quest Forge",
+      "startDate": "2023",
+      "description": "A Dungeons and Dragons inspired choose-your-own-adventure text-based game that utilizes OpenAI to generate story content based on options chosen by the user. Mostly created using AWS Lambda functions.",
+      "images": ["images/portfolio/quest-forge/QuestForge.png"],
+      "url": "https://github.com/GUI-Goblins/quest-forge",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -51,6 +52,10 @@
         {
           "class": "devicon-javascript-plain",
           "name": "JavaScript"
+        },
+        {
+          "class": "devicon-amazonwebservices-plain-wordmark",
+          "name": "AWS"
         }
       ]
     },
@@ -83,7 +88,7 @@
     {
       "company": "Code Fellows",
       "title": "Full Stack Developer (Student)",
-      "years": "06.2023 - present",
+      "years": "06.2023 - 11.2023",
       "mainTech": ["React 18"],
       "technologies": [
         "REST API",
@@ -97,7 +102,7 @@
     {
       "company": "2-Shea's Painting",
       "title": "Painter",
-      "years": "2019 - 2023",
+      "years": "2020 - 2022",
       "mainTech": [""],
       "technologies": ["Interior", "Exterior", "Commercial"]
     },
