@@ -60,26 +60,26 @@
       ]
     },
     {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "title": "201-Workout",
+      "startDate": "2023",
+      "description": "First group project done at Code Fellows bootcamp. Simple workout tracking website utilizing Javascript, HTML, and CSS. Allows a user to create user/ login, have local persistance of data, as well as provides a list exercises with descriptions on how to do them. ",
       "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
+        "images/portfolio/gym/workout-home-page.png",
+        "images/portfolio/gym/workout-exercise-list.png"
       ],
-      "url": "https://github.com",
+      "url": "https://github.com/201-workout/201-workout",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         }
       ]
     }
