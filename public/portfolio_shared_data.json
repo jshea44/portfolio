@@ -42,6 +42,38 @@
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
         "level": "85"
+      },
+      {
+        "name": "Node.js",
+        "class": "devicon-nodejs-plain"
+      },
+      {
+        "name": "AWS",
+        "class": "devicon-amazonwebservices-plain-wordmark"
+      },
+      {
+        "name": "PostSQL",
+        "class": "devicon-postgresql-plain"
+      },
+      {
+        "name": "Express.js",
+        "class": "devicon-express-original"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain"
+      },
+      {
+        "name": "GitHub",
+        "class": "devicon-github-original"
       }
     ]
   }
