@@ -13,7 +13,7 @@
     {
       "title": "Custom Fit",
       "startDate": "2024",
-      "description": "Backend server that provides the ability to create flexible workout routines for athletes and trainers alike including measuring by time, distance, reps/sets, as well as adding drop sets/supersets.",
+      "description": "Backend server that provides the ability to create flexible workout routines for athletes and trainers alike including measuring by time, distance, reps/sets.",
       "images": [
         "images/portfolio/gym/pull-ups.jpeg",
         "images/portfolio/gym/sled-pushing.jpeg"
